@@ -1,3 +1,3 @@
 # error-tracker
-Pure javascript- bootstrap4- chance
-error tracking app
+Pure javascript- bootstrap4- chance error tracking app code
+
